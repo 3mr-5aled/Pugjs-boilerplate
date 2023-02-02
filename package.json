@@ -1,7 +1,7 @@
 {
-  "name": "Construction comapny website",
+  "name": "Pugjs-boilerplate",
   "version": "1.0.0",
-  "description": "Construction comapny website",
+  "description": "Pugjs-boilerplate",
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "^7.20.12",
