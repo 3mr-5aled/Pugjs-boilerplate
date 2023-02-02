@@ -1,7 +1,7 @@
 {
-  "name": "Pugjs-boilerplate",
+  "name": "Construction comapny website",
   "version": "1.0.0",
-  "description": "Pugjs-boilerplate",
+  "description": "Construction comapny website",
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "^7.20.12",
@@ -17,7 +17,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amr Khaled",
+  "author": "Amr Khaled and Abdelrahman Ebian",
   "license": "ISC",
   "dependencies": {
     "gulp-htmlmin": "^5.0.1",
