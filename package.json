@@ -1,13 +1,18 @@
 {
-  "name": "pugjs boilerplate",
+  "name": "Pugjs-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pugjs-boilerplate",
   "main": "index.js",
   "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
     "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
-    "gulp-livereload": "^4.0.2"
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "gulp-htmlmin": "^5.0.1",
+    "gulp-minify": "^3.1.0",
     "gulp-pug": "^5.0.0",
     "static-server": "^2.2.1"
   }
